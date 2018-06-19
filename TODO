@@ -1,0 +1,11 @@
+
+List of expected features:
+0. define the interfaces
+1. a graph of calculations and it's builder
+2. ability to read mutliple input sources
+3. output front-end interface
+4. multi-core support while performing simultaneous calculations on graph
+5. computation distributed across multiple macines
+6. redundancy, load balancing of computations
+7. thread-safe, low latency interface to the library
+
